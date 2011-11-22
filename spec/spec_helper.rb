@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'spork'
+require 'webrat'
 
 # Webrat configuration
 Webrat.configure do |config|
